@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import androidx.annotation.Nullable;
 
 public class SQLite extends SQLiteOpenHelper {
-
+//linda
     private static final int DB_VERSION = 1;
     private static final String DB_NOMBRE = "proyectofinal";
     private static final String TABLE_PRODUCTO = "t_producto";
