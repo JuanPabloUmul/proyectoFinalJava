@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Vistasproyecto</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings para nombres de lbl de cada ventana -->
+    <string name="usuario">Usuario:</string>
+    <string name="pass">Password:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellido">Apellido:</string>
+    <string name="dpi">Dpi:</string>
+    <string name="celular">Celular:</string>
+    <string name="direccion">Direccion:</string>
+    <string name="correo">Correo:</string>
+    <string name="nit">NIT:</string>
+    <string name="genero">Genero:</string>
+    <string name="cantidad">Cantidad:</string>
+    <string name="precio">Precio:</string>
+    <string name="cargo">Cargo:</string>
+    <string name="serie">No. Serie:</string>
+    <string name="estado">Estado</string>
+    <string name="categoria">Categoria</string>
+    <string name="foto">Foto</string>
+    <string name="codigo">Codigo QR:</string>
+    <string name="tarjeta">No. Tarjeta:</string>
+    <string name="puntos">Puntos acumulados</string>
+    <string name="nacimiento">Fecha de nacimiento:</string>
+    <string name="creacion">Fecha de creacion:</string>
+    <string name="vencimiento">Fecha de vencimiento:</string>
+
+    <!-- Strings para nombres de ventanas principales -->
+    <string name="login">Login</string>
+    <string name="opciones">Opciones</string>
+    <string name="clientes">Clientes</string>
+    <string name="factura">Facturacion</string>
+    <string name="tarjetapuntos">Tarjeta puntos</string>
+    <string name="usuarios">Usuarios</string>
+    <string name="vendedor">Vendedor</string>
+    <string name="bodeguero">Bodeguero</string>
+    <string name="cajero">Cajero</string>
+
+    <!-- Strings para nombres botones -->
+    <string name="registrar">Registrar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="tarjetapuntos2">Tarjetas puntos</string>
+    <string name="productos">Productos</string>
+    <string name="venta">Ventas</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
